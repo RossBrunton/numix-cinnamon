@@ -50,6 +50,6 @@ recompile sass and reload the theme when a change occurs.
 
 ---
 
-<b><sub> [Wallpaper](hthttp://orig11.deviantart.net/8bdd/f/2017/063/4/8/numix_cinnamon_by_zagortenay333-d6dft70.png), [Icons](https://github.com/moka-project/moka-icon-theme)</sub></b>
+<b><sub> [Wallpaper](http://orig11.deviantart.net/8bdd/f/2017/063/4/8/numix_cinnamon_by_zagortenay333-d6dft70.png), [Icons](https://github.com/moka-project/moka-icon-theme)</sub></b>
 
 ![preview](https://i.imgur.com/qu438D3.png)
